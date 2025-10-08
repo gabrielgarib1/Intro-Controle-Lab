@@ -1,5 +1,4 @@
 // Laboratório 5 - Controle PI
-// Elaborado por Ana Cláudia - 2022-2
 //
 // Definição de Parâmetros
 #define KP 1
